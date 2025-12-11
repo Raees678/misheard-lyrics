@@ -1,0 +1,5 @@
+output/*.wav
+lm_models/*.arpa
+lm_models/*.arpa.gz
+.env
+.DS_Store
