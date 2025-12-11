@@ -2,13 +2,34 @@
 
 ## Text based misheard lyrics
 
+Python vesion: 3.13.5
+
+Install dependencies (make sure to use a different virtual environment for each section):
+
+```bash
+pip install -r requirements_PM.txt
+```
+
+To run the script phonetic matching:
+
+```bash
+python phonetic_matching.py --replace [song_lyrics].txt --noun-limit [maximum number of nouns to choose from for replacement]
+```
+
+Example usage:
+
+```bash
+python phonetic_matching.py --replace pioneer-lyrics.txt --noun-limit 500000
+```
+
+
 ## Vocal Separation and Transcription with Wav2Vec2 and Parakeet
 
 Please note that playback only works on macOS. The code is in the vocal_separation.py file.
 
 Python version: 3.11.13
 
-Install dependencies:
+Install dependencies (make sure to use a different virtual environment for each section):
 
 ```bash
 pip install -r requirements.txt
