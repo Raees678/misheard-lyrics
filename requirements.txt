@@ -180,7 +180,7 @@ typer==0.20.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 tzdata==2025.2
-urllib3==2.5.0
+urllib3==2.6.0
 wandb==0.23.1
 wcwidth==0.2.14
 webdataset==1.0.2
