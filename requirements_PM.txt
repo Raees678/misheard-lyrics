@@ -13,7 +13,7 @@ csvw==3.7.0
 cymem==2.0.13
 dlinfo==2.0.0
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
-filelock==3.20.0
+filelock==3.20.1
 fsspec==2025.10.0
 ftfy==6.3.1
 hf-xet==1.2.0
