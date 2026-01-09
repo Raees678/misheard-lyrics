@@ -184,7 +184,7 @@ urllib3==2.5.0
 wandb==0.23.1
 wcwidth==0.2.14
 webdataset==1.0.2
-Werkzeug==3.1.4
+Werkzeug==3.1.5
 wget==3.2
 whisper_normalizer==0.1.12
 wrapt==2.0.1
